@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author {Kireet Joshi}
+ *
+ */
 public class Test1 implements I1,I2{ // multilevel inheritance through interfaces
 
 	@Override

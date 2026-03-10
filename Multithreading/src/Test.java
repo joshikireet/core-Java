@@ -1,4 +1,9 @@
-// thread creatuin using thread class
+
+/**
+ * 
+ * @author {Kireet Joshi}
+ * Thread creation using Thread class
+ */
 class MyThread extends Thread
 {
 public void start()

@@ -2,7 +2,7 @@
 /**
  * 
  * @author {Kireet Joshi}
- * Thread creation using Thread class
+ * Thread creation
  */
 class MyThread extends Thread
 {

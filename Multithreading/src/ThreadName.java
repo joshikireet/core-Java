@@ -1,4 +1,10 @@
-// to print name of main thread and child thread( that is executed by main thread)
+/**
+ * 
+ * @author {Kireet Joshi}
+ * // to print name of main thread and child thread( that is executed by main thread)
+ *
+ */
+
 class MyThread1 extends Thread
 {
 	

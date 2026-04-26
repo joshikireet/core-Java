@@ -1,3 +1,8 @@
+/**
+ * @author Kireet Joshi
+  Connecting to database using CRUD operations
+ */
+
 import java.sql.*;
 public class Jdbc
 {

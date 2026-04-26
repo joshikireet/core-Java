@@ -1,6 +1,6 @@
 /**
  * @author Kireet
- *
+ *PreparedStatement interface demo
  */
 import java.sql.*;
 import java.util.*;

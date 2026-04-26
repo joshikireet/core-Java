@@ -1,5 +1,5 @@
 /** use of Jtable in Database
- * @author Kireet
+ * @author Kireet Joshi
  */
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

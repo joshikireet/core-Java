@@ -12,4 +12,4 @@ Feel free to explore the folders and download the source code.
 
 🎬 Java Learning Playlist
 
-▶️ Watch here: https://www.youtube.com/playlist?list=PL9v0uoMOeGh3fkcGH014kDI2a8TRnbsRE
+▶️ Watch here: https://www.youtube.com/@codefodo/playlists
